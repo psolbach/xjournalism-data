@@ -17,9 +17,6 @@ touch {service_account}.json # add gcp credentials
 node index.js
 ```    
 
-### Exploration
-Google Scholar does not allow sorting results reverse-chronologically, is unsuited to get results over time. Google Scholar also employs aggressive rate-limiting, making it relatively unwieldy to scrape. Wikidata API returns subject ids in the form of e.g. **Q4518252** (Churnalism). These ids are hit-and-miss, often having a seemingly random correlation with the queried keywords.
-
 ### Todo
 - [x] Add Wikidata Query Hits
 - [x] Add NYTimes Search API Metadata
