@@ -1,0 +1,25 @@
+{
+  "name": "xjournalism-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "google_ngram_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://psolbach@github.com/psolbach/xjournalism-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psolbach/xjournalism-data/issues"
+  },
+  "homepage": "https://github.com/psolbach/xjournalism-data#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.6.0",
+    "readline": "^1.3.0",
+    "dotenv": "^8.0.0"
+  }
+}

@@ -1,0 +1,106 @@
+{
+    "batchcomplete": "",
+    "continue":
+    {
+        "sroffset": 10,
+        "continue": "-||"
+    },
+    "query":
+    {
+        "searchinfo":
+        {
+            "totalhits": 14
+        },
+        "search": [
+        {
+            "ns": 0,
+            "title": "Q5227309",
+            "pageid": 4996748,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "specialty reflecting the increased role of numerical data",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q388403",
+            "pageid": 369596,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q58868528",
+            "pageid": 58780243,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q58868533",
+            "pageid": 58780248,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q59898109",
+            "pageid": 59782206,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q57907438",
+            "pageid": 57822159,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q57066595",
+            "pageid": 56983512,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "article",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q62038543",
+            "pageid": 61864915,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "scientific article published in 2012",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q9683173",
+            "pageid": 9878998,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        },
+        {
+            "ns": 0,
+            "title": "Q59895212",
+            "pageid": 59779317,
+            "size": null,
+            "wordcount": 0,
+            "snippet": "",
+            "timestamp": "2019-07-23T12:45:28Z"
+        }]
+    }
+}
